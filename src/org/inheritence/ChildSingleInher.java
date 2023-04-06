@@ -16,5 +16,6 @@ public class ChildSingleInher extends SingleInher {
 	c.bankEmployeeId();
 	c.bankEmployeeSal();
 	c.bankEmployeName();
+	System.out.println("single inheritence");
 }
 }
